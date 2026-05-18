@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # file_sortor
 Downloadsフォルダ内のファイルを拡張子ごとに自動整理するPythonツールです。
 
@@ -18,3 +19,4 @@ Downloadsフォルダ内のファイルを拡張子ごとに自動整理するPy
 bash
 python main.py
 '''
+
